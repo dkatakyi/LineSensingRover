@@ -1,4 +1,6 @@
 # Line-Sensing Rover
+| ![](https://github.com/dkatakyi/LineSensingRover/blob/5bcb5528d8f891f8e621052a658129825c3ea82f/Project%20Report/schematic.png) | ![](https://github.com/dkatakyi/LineSensingRover/blob/5bcb5528d8f891f8e621052a658129825c3ea82f/Project%20Report/schematic.png) |
+| - | - |
 ## Creators
 Daniel Takyi, Dwijen Kapdia
 ## Description
